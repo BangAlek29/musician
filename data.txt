@@ -1,0 +1,37 @@
+Penyanyi:
+Adele
+London, 05-05-1988
+Lagu:
+Hello
+Adele
+No Collab
+2015
+Lagu:
+Rolling in the Deep
+Adele
+No Collab
+2010
+
+Penyanyi:
+Bruno Mars
+Honolulu, 08-10-1985
+Lagu:
+Just the Way You Are
+Bruno Mars
+No Collab
+2010
+Lagu:
+Uptown Funk
+Bruno Mars
+Mark Ronson
+2014
+
+Lagu Lainnya:
+Shape of You
+Ed Sheeran
+No Collab
+2017
+Blinding Lights
+The Weeknd
+No Collab
+2019
